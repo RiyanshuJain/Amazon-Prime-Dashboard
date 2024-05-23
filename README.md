@@ -1,5 +1,5 @@
 # DV Project
-B20AI060, B20AI055 - Mini Project (Data Visualisation CSL4050)
+B20AI060, B20AI055, B20CS096 - Mini Project (Data Visualisation CSL4050)
 
 Deployed Link - https://riyanshujain.shinyapps.io/OTT_DASHBOARD/
 
